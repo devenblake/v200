@@ -5,7 +5,7 @@ To do and notice
 
 1. Install [SDL 2.0](https://www.libsdl.org/).
 
-2. [Download the OS from TI's web site](https://education.ti.com/en/products/calculators/graphing-calculators/voyage-200?category=resources). The current (and probably last ever) version is v3.10, with SHA256 sum:
+2. [Download the OS from an archived page from TI's web site](https://web.archive.org/web/20190114094316/https://education.ti.com/-/media/37E834B296B94762950DE4972B5BDDCC). The current (and probably last ever) version is v3.10, with SHA256 sum:
 
         a819756f84bcb5c60729b9c2fe842473d3460ae5cd211aca1d8da4e09a04dcf3  os.v2u
 
